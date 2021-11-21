@@ -1,2 +1,2 @@
 # Portfolio-website
-website [Link](https://ritugupta02.github.io/Weather-App/)
+website [Link](https://hopeful-bassi-ca6151.netlify.app)
